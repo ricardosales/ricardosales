@@ -11,7 +11,7 @@
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 <p align="center">
-  <a href="mailto:ricardo2sales.tn@gmail.com">
+  <a href="mailto:ricardo2sales@gmail.com">
     <img align="center" alt="Ricardo Sales | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ricardo2sales/" target="_blank">
